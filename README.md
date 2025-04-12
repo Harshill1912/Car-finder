@@ -1,12 +1,39 @@
-# React + Vite
+# 🚗 Car Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Car Finder is a web application built using **React** and **Vite** that helps users browse and explore various cars based on different filters and preferences. It is designed with a modern UI and optimized performance using Vite's lightning-fast development environment.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Features
 
-## Expanding the ESLint configuration
+- 🔍 Search cars by model, brand, or other criteria
+- 📊 Filter options for better results
+- 💨 Fast and responsive interface powered by Vite
+- 🎨 Styled with Tailwind CSS (or your preferred UI framework)
+- 🔧 Clean, modular React component structure
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Tailwind CSS](https://tailwindcss.com/) *(if you're using it)*
+- [ESLint](https://eslint.org/)
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Harshill1912/Car-finder.git
+cd Car-finder
+2. Install dependencies
+npm run dev
+3. Start the development server
+npm run dev
